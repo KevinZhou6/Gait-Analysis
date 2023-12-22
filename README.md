@@ -6,6 +6,11 @@ CNN-LSTM NetWork
 This deep learning model is designed to investigate the impact of virtual experience and avatars on gait parameters in both real-world and virtual environments.
 
 
+### Background
+1. The skeletal joint information captured by the Kinect camera has a certain periodicity. This type of information can be considered as time-series data and can be analyzed using neural networks.
+<img>
+
+
 ### Advantages 
 1.  The CNN component of our network initially extracts spatial local features from the sequence of skeletal joint points.
 2.  The LSTM component then processes these features, capturing spatiotemporal information.
