@@ -11,5 +11,10 @@ This deep learning model is designed to investigate the impact of virtual experi
 2.  The LSTM component then processes these features, capturing spatiotemporal information.
 3.  The Attention layer assigns weights to the vectors, identifying which time steps in the sequence are more significant for the analysis.
 
+### NetWork
+<img src="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/network.png"  />
+
+<br/>
+
 ### Accuracy & Loss
-<img>
+<img src ="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/loss">
