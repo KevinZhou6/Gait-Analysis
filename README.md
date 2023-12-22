@@ -17,4 +17,4 @@ This deep learning model is designed to investigate the impact of virtual experi
 <br/>
 
 ### Accuracy & Loss
-<img src ="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/loss">
+<img src ="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/loss.png">
