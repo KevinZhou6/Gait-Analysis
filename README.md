@@ -8,7 +8,7 @@ This deep learning model is designed to investigate the impact of virtual experi
 
 ### Background
 1. The skeletal joint information captured by the Kinect camera has a certain periodicity. This type of information can be considered as time-series data and can be analyzed using neural networks.
-<img>
+<img src ="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/Navel.png">
 
 
 ### Advantages 
