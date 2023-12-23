@@ -23,3 +23,9 @@ This deep learning model is designed to investigate the impact of virtual experi
 
 ### Accuracy & Loss
 <img src ="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/loss.png">
+<br/>
+
+### End
+#### If you appreciate the model, please give it a star.
+####  For inquiries regarding the gait dataset, feel free to contact me via email.
+
