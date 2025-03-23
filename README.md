@@ -30,16 +30,14 @@ This deep learning model is designed to investigate the impact of virtual experi
 
 ## BibTeX
 ```
-@INPROCEEDINGS{10831053,
+@inproceedings{zhou2024study,
+  title={Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World},
   author={Zhou, Tianyi and Ding, Ding and Wang, Shengyu and Shi, Chuhan and Xu, Xiangyu},
-  booktitle={2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, 
-  title={Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World}, 
+  booktitle={2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={481--487},
   year={2024},
-  volume={},
-  number={},
-  pages={481-487},
-  keywords={Avatars;Neural networks;Virtual environments;Cybernetics;Virtual Reality;Gait Analysis;Virtual Avatars;Embodiment},
-  doi={10.1109/SMC54092.2024.10831053}}
+  organization={IEEE}
+}
 ```
 
 ### End
