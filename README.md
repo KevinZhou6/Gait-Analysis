@@ -3,12 +3,12 @@ This repository is the official implementation of our IEEE SMC 24 paper: [Study 
 
 <h5 align="center">
 
-[![arxiv](https://img.shields.io/badge/Arxiv-2410.19452-red)](https://arxiv.org/pdf/2410.19452) &ensp;
+[![arxiv](https://img.shields.io/badge/Arxiv-2411.18949-red)](https://arxiv.org/abs/2411.18949) &ensp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/KevinZhou6/Gait-Analysis)
 </h5>
 
 ## Avatars
-<img src="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/network.png"  />
+<img src="https://github.com/KevinZhou6/Gait-Analysis/blob/main/assets/avatars.png"  />
 
 ## 📣 News
 - May. 13, 2024. Code release.
@@ -24,7 +24,7 @@ This deep learning model is designed to investigate the impact of virtual experi
 1.  The CNN component of our network initially extracts spatial local features from the sequence of skeletal joint points.
 2.  The LSTM component then processes these features, capturing spatiotemporal information.
 3.  The Attention layer assigns weights to the vectors, identifying which time steps in the sequence are more significant for the analysis.
-<img src="https://github.com/KevinZhou6/Gait-Analysis/blob/main/Gait-Analysis/network.png"  />
+<img src="https://github.com/KevinZhou6/Gait-Analysis/blob/main/assets/model.png"  />
 
 
 
