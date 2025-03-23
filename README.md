@@ -3,9 +3,8 @@ This repository is the official implementation of our IEEE SMC 24 paper: [Study 
 
 <h5 align="center">
 
-[![Huggingface NeuroClips](https://img.shields.io/static/v1?label=Model&message=Huggingface&color=orange)](https://huggingface.co/datasets/gongzx/cc2017_dataset/) &ensp;
 [![arxiv](https://img.shields.io/badge/Arxiv-2410.19452-red)](https://arxiv.org/pdf/2410.19452) &ensp;
-![GitHub Repo stars](https://img.shields.io/github/stars/gongzix/NeuroClips)
+![GitHub Repo stars](https://img.shields.io/github/stars/KevinZhou6/Gait-Analysis)
 </h5>
 
 ## Avatars
