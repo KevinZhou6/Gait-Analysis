@@ -1,6 +1,11 @@
 # Gait-Analysis
 This repository is the official implementation of our IEEE SMC 24 paper: [Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://ieeexplore.ieee.org/abstract/document/10831053)
 
+## 📣 News
+- May. 13, 2024. Code release.
+- Apr. 25, 2024. Accepted by IEEE SMC 2024 for Oral Presentation.
+- Dec. 29, 2023. Project release.
+
 ### Objective
 
 This deep learning model is designed to investigate the impact of virtual experience and avatars on gait parameters in both real-world and virtual environments.
